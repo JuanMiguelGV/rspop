@@ -7,8 +7,8 @@
 This application allows to use [**RealSense depth cameras**](https://www.intelrealsense.com/) in conjuction with the [**OpenPose library**](https://github.com/CMU-Perceptual-Computing-Lab/openpose) to estimate 3D human pose keypoints, creating C3D files for analysis of human movement and gait.
 
 <p align="center">
-    <img src="./media/depth.png" width="500">
-    <img src="./media/output_example.png" width="403">
+    <img src="./media/depth.png" width="440">
+    <img src="./media/output_example.png" width="356">
 </p>
 
 This project was recently created to conduct a study of human gait in the near future, comparing the results that can be obtained with Intel's depth cameras and a high-precision optoelectronic system for motion analysis. The results will determine the possibilities of creating low-cost, portable motion labs by relying solely on intel's cameras and the RSPOP software. For this reason, the source code cannot yet be published.
